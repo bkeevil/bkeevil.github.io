@@ -1,10 +1,11 @@
-title: Your awesome title
-email: your-email@example.com
+title: justsomehacker@bondkeevil.ca
+email: me@bondkeevil.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
+  I'm just some hacker that lives in a remote part of Ontario, 
+  Canada. No local economy IT economy to speak of here so I mostly
+  do open source stuff to keep me busy. This site has news and 
+  updates about my software development activities and a list of 
+  my repositories.
 github_username:  bkeevil
 
 # Build settings
