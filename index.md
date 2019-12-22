@@ -21,6 +21,10 @@ Currently working on developing my C++ MQTT library on my private GOGS servere [
 
 This project uses the TCP library that I am developing on GitHub.
 
+## December 2019 
+
+I've got the TCP library done and the MQTT library client is running but still too buggy for release. Since this project is more for my own educational purposes I've been slowed down by some experiments in Gitlab and CI/CD. I have ordered an off lease Dell PowerEdge 710 with 4x2TB SAS storage and 24 GB of RAM to further develop these skills. I think I will install XCP-ng (a fork of Xen Server) and partition the hardware into multiple virtual servers. One of those servers will be a Gitlab server and I will run Docker images to test software locally. I have decided to suspend development on the MQTT stuff until I can get my CI/CD system up and running.
+
 # Repository List
 
 ## C++ Projects
